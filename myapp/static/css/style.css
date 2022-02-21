@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(213, 149, 158);
+}
+h1{
+    color:brown;
+    text-align: center;
+    border: 2px;
+}
+div
+form{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    border:10px solid rgb(0, 0, 0);
+    background-color: whitesmoke;
+    width: 300px;
+     height: 400px;
+    margin-top: 50px;
+    
+}
+#input1{
+    margin-top: 150px;
+    background-color: black;
+}
+#input2{
+    background-color: black;
+}
+input[type="text" ]{
+background-color: aqua;
+}
